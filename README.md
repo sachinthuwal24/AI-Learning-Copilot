@@ -25,7 +25,7 @@ AI-powered learning platform built using Python, Streamlit, Gemini API, SQLite, 
 
 ## Live Demo
 
-[Add your Streamlit link here]
+(https://ai-learning-copilot-68hd7w3nhb4mfwnytatwae.streamlit.app/)
 
 ## Installation
 
